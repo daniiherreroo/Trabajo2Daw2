@@ -1,5 +1,4 @@
 # Trabajo2Daw2
-conjunto de carpetas y ficheros de un protal web desarrollado en Wordpress
 
 Características
 Una vez instalado el WordPress, se configuro para poder acceder como administrador y empezar a modificar el portal web, se empezó buscando un diseño básico para poder hacer nuestro portal más vistoso a las fotos, para que estuvieran bien cuadradas. Se lo siguió instalando ciertos plugin para darle forma al portal web, como fue el caso de WooComerce o Contact Form 7, el WooComerce se encarga de poner las bases de nuestra tienda online, Contact Form 7 sirve para poder hacer un formulario donde contacte con nosotros. Por último, pero no menos importante tenemos nuestros usuarios pueden ver el portal web y comprar, luego están los editores que pueden editar las páginas del sitio web, pero no pueden ni crear ni borrar una página, y por ultimo los autores que solo pueden añadir entradas al blog, también los dos pueden comprar en la tienda
