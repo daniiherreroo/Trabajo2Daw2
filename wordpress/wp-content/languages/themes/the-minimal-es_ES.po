@@ -1,0 +1,773 @@
+# Translation of Themes - The Minimal in Spanish (Spain)
+# This file is distributed under the same license as the Themes - The Minimal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-26 07:03:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - The Minimal\n"
+
+#. Theme Name of the theme
+msgid "The Minimal"
+msgstr "The Minimal"
+
+#: header.php:59
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/extras.php:202 inc/extras.php:207
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/extras.php:201 inc/extras.php:205
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/extras.php:479
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/extras.php:473
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Gratis frente a Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "FAQs y soporte"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "A continuación encontrarás todo lo que necesitas para los primeros pasos con %1$s."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Primeros pasos con %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Activando"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Porfolio de Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#: inc/getting-started/tabs/plugins-panel.php:26
+msgid "These Free Plugins might be handy for you."
+msgstr "Estos plugins gratuitos pueden serte útiles."
+
+#: inc/getting-started/tabs/plugins-panel.php:25
+msgid "Free Plugins"
+msgstr "Plugins gratuitos"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Además, cuando envíes el tique de soporte, por favor, intenta proporcionar el máximo de detalles posibles para que podamos examinar tu problema en detalle y resolverlo en un tiempo mínimo. Te recomendamos que nos envíes una o varias capturas de pantalla con los problemas explicados y la dirección de tu sitio web (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Por favor, asegúrate de que has actualizado a la última versión del tema antes de enviar un tique de soporte para cualquier problema. Puede que ya hayamos arreglado el error en la actualización anterior del tema."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "¿Cómo puedo resolver mis problemas rápidamente y obtener un soporte más rápido?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Si esto no ha ayudado, por favor, contacta con nosotros mediante nuestros %1$stiques de soporte%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Si el personalizador no carga correctamente o estás teniendo problemas con el tema, puede ser causado por un conflicto con un plugin."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "¿Por qué mi tema no funciona bien?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Puedes cambiar el texto del copyright yendo a  %1$sApariencia > Personalizar > Ajustes del pie de página%2$s. Sin embargo, si quieres ocultar el texto de acreditación del autor, por favor %3$sactualiza a la versión Pro%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "¿Cómo puedo cambiar el texto del copyright?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "La versión Pro está creada con mucha flexibilidad en mente para futuras actualizaciones. Por tanto, es un poco diferente que el tema gratuito, pero extremadamente flexible y fácil de usar."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Sin embargo, dado que la versión Pro viene con características y ajustes adicionales, tendrás que configurar las características adicionales en el personalizador. Este proceso es sencillo y se tarda unos pocos minutos."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Para resolver el problema, desactiva primero todos los plugins, a excepción de los recomendados por el tema. Después refresca tu web usando %1$s«Ctrl+Shift+R»%2$s en Windows y %1$s«Cmd+Shift+R»%2$s en Mac. Si los problemas están corregidos, comienza a activar los plugins uno por uno, recarga y comprueba tu sitio cada vez. Esto te ayudará a encontrar el plugin que está causando los problemas."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Cuando actualices al tema Pro, tus entradas, páginas, medios, categorías y otros datos permanecerán intactos — todos tus datos están guardados."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Actualizando a la versión Pro, ¿perderé mis cambios?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Junto con las funciones adicionales y las actualizaciones regulares, obtendrás un soporte dedicado y rápido con el tema premium. Si te encuentras con algún problema durante la creación de una web con el tema premium, obtendrás una respuesta más rápida en comparación con el soporte gratuito."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "¿Cuáles son las ventajas de actualizar a la versión Premium?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "En general, con la versión Pro, tendrás más control sobre la personalización y edición de tu web."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "Tanto la versión gratuita como la Pro del tema están bien codificadas y son desarrolladas con las mejores prácticas de codificación. Sin embargo, la versión Pro del tema viene con características ampliadas y un equipo de soporte dedicado para ayudarte a resolver tus dudas. El tema Pro viene con múltiples diseños para ayudarte a crear una web única y atractiva. Además, el tema Pro es totalmente compatible con Polylang y el plugin WPML para ayudarte a crear un blog multilingüe y tener un amplio alcance."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "¿Cuál es la diferencia entre la versión gratis y la Pro?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Visita la base de conocimiento"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Nuestra documentación viene con una guía paso a paso, desde la instalación de WordPress hasta la personalización de nuestro tema y la creación de una web atractiva y atrayente."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "¿Necesitas ayuda con WordPress y nuestro tema lo más rápido posible? Visita nuestra bien organizada documentación."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Visita la base de conocimiento"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Leer más aquí sobre las características"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Además, el tema premium se actualiza regularmente y cuenta con un equipo de soporte dedicado a resolver tus dudas."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Ver la demostración"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Visitar la demostración"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Visita la demostración para tener una mejor idea sobre el diseño de nuestro tema y sus características."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "La versión Pro del tema te permite cambiar el aspecto de la web con solo unos pocos clics. Puedes cambiar fácilmente el color, la imagen de fondo y el patrón, así como las fuentes de la web con el tema Pro. La versión Pro viene con múltiples diseños para ayudarte a crear un sitio web atractivo y atrayente. Además, el tema premium es compatible con WPML y Polylang para permitirte crear una web multilingüe con facilidad."
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Contactar con el soporte"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Visitar el soporte"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Si la guía de documentación no te ha ayudado, contacta con nosotros a través de nuestros %1$stiques de soporte%2$s. Respondemos a todas las consultas de soporte en un día hábil, excepto los fines de semana."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Siempre es mejor visitar nuestra %1$sguía de documentación%2$s antes de enviarnos una consulta de soporte."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Tique de soporte"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Visitar la documentación"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "¿Eres nuevo en el mundo de WordPress? Nuestra sencilla guía de documentación paso a paso te ayudará a crear una web atractiva y atrayente sin necesidad de tener conocimientos o experiencia previa en programación."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Ver nuestro enlace a la documentación"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Ver la versión Pro"
+
+#: inc/getting-started/tabs/link-panel.php:13
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+msgid "View Premium Version"
+msgstr "Ver la versión Premium"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis frente a Pro"
+
+#: functions.php:277
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: functions.php:276
+msgid "Go to the getting started."
+msgstr "Ir a los primeros pasos."
+
+#: functions.php:275
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "Ahora, %1$s está instalado y listo para ser usado. Haz clic a continuación para ver la documentación del tema, los plugins para instalar y otros detalles para comenzar."
+
+#: functions.php:274
+msgid "Congratulations!"
+msgstr "¡Felicidades!"
+
+#: header.php:28
+msgid "Skip to content (Press Enter)"
+msgstr "Saltar al contenido (presiona la tecla Intro)"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the The Minimal. Though every plugin is optional, we recommend you to at least install %1$sRara One Click Demo Import%2$s to create a website similar to the The Minimal demo and also to ensure every feature of the theme works correctly."
+msgstr "Aquí hay una lista de plugins recomendados que debes instalar para sacar el máximo provecho de The Minimal. Aunque cada plugin es opcional, te recomendamos que al menos instales %1$sRara One Click Demo Import%2$s para crear un sitio web similar a la demo de The Minimal y también para asegurarte de que cada característica del tema funciona correctamente."
+
+#: inc/getting-started/tabs/plugins-panel.php:36
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our The Minimal Demo"
+msgstr "Ver nuestra demostración de The Minimal"
+
+#: inc/widget-featured-post.php:117
+msgid "Excerpt Word Count"
+msgstr "Recuento de palabras del extracto"
+
+#: inc/extras.php:284
+msgid "The Minimal | Developed By "
+msgstr "The Minimal | Desarrollado por"
+
+#: inc/extras.php:163
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">dice:</span>"
+
+#: inc/extras.php:282
+msgid "Y"
+msgstr "Y"
+
+#: inc/widget-social-links.php:79 inc/widget-social-links.php:177
+#: inc/extras.php:81 inc/customizer.php:472
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/widget-social-links.php:77 inc/widget-social-links.php:171
+#: inc/extras.php:79 inc/customizer.php:454
+msgid "VK"
+msgstr "VK"
+
+#: inc/widget-social-links.php:75 inc/widget-social-links.php:165
+#: inc/extras.php:77 inc/customizer.php:436
+msgid "OK"
+msgstr "Aceptar"
+
+#: inc/info.php:147
+msgid "VIEW PRO THEME"
+msgstr "VER EL TEMA PRO"
+
+#: inc/info.php:145
+msgid "Pro Available"
+msgstr "Versión Pro disponible"
+
+#: inc/info.php:24
+msgid "Support ticket"
+msgstr "Tique de soporte"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Ver la documentación"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+msgid "here"
+msgstr "aquí"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Ver la demostración"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Enlaces de información "
+
+#: inc/info.php:29
+msgid "About The Minimal"
+msgstr "Sobre The Minimal"
+
+#: inc/info.php:25
+msgid "More Details"
+msgstr "Más detalles"
+
+#: inc/extras.php:222
+msgid "Comment"
+msgstr "Comentario"
+
+#: inc/extras.php:209
+msgid "Website"
+msgstr "Web"
+
+#: inc/extras.php:202
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+#: inc/extras.php:201
+msgid "Name*"
+msgstr "Nombre*"
+
+#: inc/widget-social-links.php:67 inc/widget-social-links.php:141
+#: inc/extras.php:69 inc/customizer.php:364
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:35 template-parts/content.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/widget-social-links.php:119 inc/widget-social-links.php:125
+#: inc/widget-social-links.php:131 inc/widget-social-links.php:137
+#: inc/widget-social-links.php:143 inc/widget-social-links.php:149
+#: inc/widget-social-links.php:155 inc/widget-social-links.php:161
+#: inc/widget-social-links.php:167 inc/widget-social-links.php:173
+#: inc/widget-social-links.php:179
+msgid "Leave blank if you do not want to show."
+msgstr "Déjalo en blanco si no quieres que se muestre."
+
+#: inc/widget-social-links.php:69
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:96
+#: inc/widget-social-links.php:197
+msgid "Social"
+msgstr "Social"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Un widget de enlaces sociales"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Enlaces sociales"
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:98
+#: inc/widget-recent-post.php:140
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Un widget de entradas recientes"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Entradas recientes"
+
+#: inc/widget-popular-post.php:123 inc/widget-recent-post.php:122
+msgid "Show Post Date"
+msgstr "Mostrar la fecha de la entrada"
+
+#: inc/widget-popular-post.php:112 inc/widget-recent-post.php:111
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: inc/widget-social-links.php:112 inc/widget-popular-post.php:107
+#: inc/widget-recent-post.php:106
+msgid "Title"
+msgstr "Título"
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:99
+#: inc/widget-popular-post.php:141
+msgid "Popular Posts"
+msgstr "Entradas populares"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Un widget de entradas populares"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Entradas populares"
+
+#: inc/widget-featured-post.php:123 inc/widget-popular-post.php:118
+#: inc/widget-recent-post.php:117
+msgid "Show Post Thumbnail"
+msgstr "Mostrar la miniatura de la entrada"
+
+#: inc/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr "Texto de «Leer más»"
+
+#: inc/widget-featured-post.php:103
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "Un widget de entradas destacadas"
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA: Entrada destacada"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:46 inc/template-tags.php:59
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:44 inc/template-tags.php:50
+msgid ", "
+msgstr ", "
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Elige plantilla de barra lateral"
+
+#: inc/metabox.php:30
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/metabox.php:25
+msgid "Right sidebar (default)"
+msgstr "Barra lateral derecha (por defecto)"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: inc/extras.php:286
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: inc/extras.php:286
+msgid "Powered by: %s"
+msgstr "Funciona con: %s"
+
+#: inc/extras.php:282
+msgid "Copyright &copy; "
+msgstr "Copyright &copy;"
+
+#: inc/extras.php:166
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/customizer.php:505
+msgid "Put your custom CSS"
+msgstr "Añade tu CSS personalizado"
+
+#: inc/customizer.php:503
+msgid "Custom Css"
+msgstr "CSS personalizado"
+
+#: inc/customizer.php:485
+msgid "Custom CSS Settings"
+msgstr "Ajustes de CSS personalizado"
+
+#: inc/widget-social-links.php:63 inc/widget-social-links.php:129
+#: inc/extras.php:65 inc/customizer.php:328
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:71 inc/widget-social-links.php:153
+#: inc/extras.php:73 inc/customizer.php:400
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-social-links.php:147 inc/extras.php:71 inc/customizer.php:382
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:65 inc/widget-social-links.php:135
+#: inc/extras.php:67 inc/customizer.php:346
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/widget-social-links.php:61 inc/widget-social-links.php:123
+#: inc/extras.php:63 inc/customizer.php:310
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widget-social-links.php:59 inc/widget-social-links.php:117
+#: inc/extras.php:61 inc/customizer.php:292
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:274
+msgid "Enable Social Links"
+msgstr "Activar los enlaces sociales"
+
+#: inc/customizer.php:256
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Déjalo en blanco si no quieres mostrar el enlace social."
+
+#: inc/customizer.php:255
+msgid "Social Settings"
+msgstr "Ajustes sociales "
+
+#: inc/customizer.php:243
+msgid "Choose Slider Category"
+msgstr "Elige la categoría del carrusel"
+
+#: inc/customizer.php:225
+msgid "Readmore Text"
+msgstr "Texto de «Leer más»"
+
+#: inc/widget-featured-post.php:39 inc/widget-featured-post.php:96
+#: inc/widget-featured-post.php:142
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer.php:207
+msgid "Slider Speed"
+msgstr "Velocidad de carrusel"
+
+#: inc/customizer.php:190
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: inc/customizer.php:189
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: inc/customizer.php:149
+msgid "Enable Slider Caption"
+msgstr "Activar la leyenda en el carrusel"
+
+#: inc/customizer.php:131
+msgid "Enable Slider Control"
+msgstr "Activar el control del carrusel"
+
+#: inc/customizer.php:113
+msgid "Enable Slider Loop"
+msgstr "Activar el bucle del carrusel"
+
+#: inc/customizer.php:95
+msgid "Enable Slider Auto Transition"
+msgstr "Activar la transición automática del carrusel"
+
+#: inc/customizer.php:77
+msgid "Enable Home Page Slider"
+msgstr "Activar el carrusel de la página de inicio"
+
+#: inc/customizer.php:59
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: inc/widget-featured-post.php:84
+msgid "--choose--"
+msgstr "--elegir--"
+
+#: inc/template-tags.php:78
+msgid "Page"
+msgstr "Página"
+
+#: inc/template-tags.php:26
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: inc/extras.php:172
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/widget-social-links.php:73 inc/widget-social-links.php:159
+#: inc/extras.php:75 inc/customizer.php:418
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: template-parts/content.php:66 template-parts/content-search.php:27
+#: inc/extras.php:95 inc/customizer.php:217
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer.php:185
+msgid "Choose Slider Animation"
+msgstr "Elegir la animación del carrusel"
+
+#: inc/template-tags.php:77
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/template-tags.php:76
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/template-tags.php:46
+msgid "FILED UNDER: %1$s"
+msgstr "ARCHIVADO EN: %1$s"
+
+#: inc/template-tags.php:52
+msgid "TAGGED WITH: %1$s"
+msgstr "ETIQUETADO COMO: %1$s"
+
+#: inc/customizer.php:167
+msgid "Enable Slider Thumbnail"
+msgstr "Activar la miniatura del carrusel"
+
+#: inc/customizer.php:38
+msgid "Default Settings"
+msgstr "Ajustes por defecto"
+
+#: inc/customizer.php:26
+msgid "Choose Category"
+msgstr "Elegir la categoría"
+
+#: functions.php:173
+msgid "Footer Three"
+msgstr "Pie de página tres"
+
+#: functions.php:163
+msgid "Footer Two"
+msgstr "Pie de página dos"
+
+#: functions.php:153
+msgid "Footer One"
+msgstr "Pie de página uno"
+
+#: functions.php:143
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: functions.php:51
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "Comentarios recientes"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/customizer.php:39
+msgid "Default section provided by wordpress customizer."
+msgstr "Sección por defecto proporcionada por el personalizador de WordPress."
+
+#: functions.php:52
+msgid "Secondary"
+msgstr "Secundario"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/extras.php:285
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/the-minimal/"
+msgstr "https://rarathemes.com/wordpress-themes/the-minimal/"
